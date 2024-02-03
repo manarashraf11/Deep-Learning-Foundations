@@ -1,5 +1,5 @@
 # Deep Learning Foundations 
-The notebooks for the deep learning foundations course lectures (SBE2250) by **Dr.Meena Abdelmaseeh** 
+The notebooks for the deep learning course by **Dr.Meena Abdelmaseeh** 
 ## Topics covered in lectures
 * Lecture 2: Gradient Descent
 * Lecture 3: Backpropagation primer 
